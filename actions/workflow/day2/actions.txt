@@ -1,0 +1,7 @@
+We supposed to have a new way to up to date things directly
+on git
+using actions and workflows.
+
+Interesting point to exploit every time we have something to store 
+on our own repositories
+
